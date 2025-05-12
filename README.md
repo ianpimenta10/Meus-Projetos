@@ -2,7 +2,7 @@
 
 ## Lista de Projetos
 
-- [Calculadora Simples](https://github.com/ianpimenta10/Meus-Projetos-Csharp/tree/main/Projetos%20em%20C%23/CalculadoraSimples)
+- [Calculadora Simples]([https://github.com/ianpimenta10/Meus-Projetos-Csharp/tree/main/Projetos%20em%20C%23/CalculadoraSimples](https://github.com/ianpimenta10/Meus-Projetos-Csharp/blob/main/CalculadoraSimples))
   
 - [Conversor de Temperatura](https://github.com/ianpimenta10/Meus-Projetos-Csharp/tree/main/Projetos%20em%20C%23/ConversorTemperatura)
   
