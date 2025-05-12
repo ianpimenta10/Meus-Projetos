@@ -1,8 +1,12 @@
-meus-projetos/
-├── projeto1/
-│   ├── src/
-│   ├── README.md
-├── projeto2/
-│   ├── src/
-│   ├── README.md
-├── README.md
+# Projetos em C#
+
+Esta pasta reúne pequenos projetos desenvolvidos em C# para fins de estudo e prática de programação.
+
+Cada projeto está em uma subpasta própria, com código-fonte e instruções de uso documentadas.
+
+## Lista de Projetos
+
+- [Calculadora Simples](./CalculadoraSimples)
+- [Conversor de Temperatura](./ConversorTemperatura)
+
+---
