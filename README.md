@@ -1,6 +1,6 @@
-# Projeto Usando Web Api "Gerador de mensagem até usuário 99"
+# Esse é o meu repositório de C# no GitHub, segue alguns projetos que fiz até agora
 
-## Descrição
+## Projeto 1
 
 O código Recebe um número inteiro até 100 chamado numeroUsuario como parâmetro de entrada.
 
@@ -12,7 +12,7 @@ Cada linha da resposta será:
 onde X é o número atual do usuário.
 Retorna uma string com todas as mensagens geradas, separadas por quebras de linha 
 
-## Tecnologias utilizadas
+## Projeto 2
 - Web Api
 
 ## Autor
