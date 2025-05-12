@@ -1,48 +1,119 @@
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meus Projetos C#</title>
+    <title>Meus Projetos em C#</title>
     <style>
+        /* Estilos globais */
         body {
             font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
+            background-color: #f0f0f5;
             margin: 0;
             padding: 0;
             text-align: center;
         }
+
         header {
-            background-color: #282c34;
+            background-color: #333;
             color: white;
-            padding: 1em;
+            padding: 2em;
         }
-        h1 {
+
+        header h1 {
             margin: 0;
+            font-size: 2.5em;
         }
+
         section {
             padding: 2em;
         }
-        a {
-            color: #1d72b8;
-            text-decoration: none;
+
+        h2 {
+            font-size: 1.8em;
+            margin-bottom: 1em;
         }
+
+        /* Estilo da lista de projetos */
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            background-color: #fff;
+            margin: 1em 0;
+            padding: 1.2em;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: all 0.3s ease-in-out;
+        }
+
+        li:hover {
+            background-color: #e6e6e6;
+            transform: scale(1.02);
+        }
+
+        a {
+            text-decoration: none;
+            color: #1d72b8;
+            font-size: 1.2em;
+        }
+
         a:hover {
             text-decoration: underline;
         }
+
+        .description {
+            margin-top: 1em;
+            color: #555;
+        }
+
+        /* Responsividade */
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 2em;
+            }
+
+            section {
+                padding: 1.5em;
+            }
+
+            li {
+                padding: 1em;
+            }
+        }
     </style>
 </head>
+
 <body>
     <header>
-        <h1>Bem-vindo aos meus projetos em C#</h1>
+        <h1>Bem-vindo aos meus Projetos em C#</h1>
+        <p>Confira abaixo os projetos que desenvolvi em C#.</p>
     </header>
+
     <section>
-        <h2>Projetos disponíveis:</h2>
+        <h2>Projetos Disponíveis</h2>
         <ul>
-            <li><a href="https://github.com/ianpimenta10/Meus-Projetos-Csharp/tree/main/Projetos%20em%20C%23/CalculadoraSimples" target="_blank">Calculadora Simples</a></li>
-            <li><a href="https://github.com/ianpimenta10/Meus-Projetos-Csharp/tree/main/Projetos%20em%20C%23/ConversorTemperatura" target="_blank">Conversor de Temperatura</a></li>
+            <li>
+                <a href="https://github.com/ianpimenta10/Meus-Projetos-Csharp/tree/main/Projetos%20em%20C%23/CalculadoraSimples"
+                    target="_blank">Calculadora Simples</a>
+                <div class="description">
+                    Uma aplicação de linha de comando que permite realizar operações matemáticas básicas, como soma, subtração,
+                    multiplicação e divisão.
+                </div>
+            </li>
+
+            <li>
+                <a href="https://github.com/ianpimenta10/Meus-Projetos-Csharp/tree/main/Projetos%20em%20C%23/ConversorTemperatura"
+                    target="_blank">Conversor de Temperatura</a>
+                <div class="description">
+                    Um programa que converte temperaturas entre diferentes escalas, como Celsius, Fahrenheit e Kelvin.
+                </div>
+            </li>
         </ul>
     </section>
 </body>
-</html>
 
+</html>
