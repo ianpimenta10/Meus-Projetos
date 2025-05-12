@@ -1,21 +1,10 @@
 # Esse é o meu repositório de C# no GitHub, segue alguns projetos que fiz até agora
 
-## Projeto 1
+## Lista de Projetos
 
-O código Recebe um número inteiro até 100 chamado numeroUsuario como parâmetro de entrada.
-
-Usa um laço while para gerar mensagens de boas-vindas começando do número recebido até 99.
-
-Cada linha da resposta será:
-
-"Seja bem-vindo Usuário X"
-onde X é o número atual do usuário.
-Retorna uma string com todas as mensagens geradas, separadas por quebras de linha 
-
-https://github.com/ianpimenta10/Meus-Projetos-Csharp/blob/main/Calculadora%20Simples
-
-## Projeto 2
-- Web Api
+- [Calculadora Simples](https://github.com/ianpimenta10/Meus-Projetos/tree/main/Projetos%20em%20C%23/CalculadoraSimples)
+  
+- [Conversor de Temperatura](https://github.com/ianpimenta10/Meus-Projetos/tree/main/Projetos%20em%20C%23/ConversorTemperatura)
 
 ## Autor
 Ian Pimenta (https://github.com/ianpimenta10)
