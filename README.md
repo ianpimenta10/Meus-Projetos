@@ -12,6 +12,8 @@ Cada linha da resposta será:
 onde X é o número atual do usuário.
 Retorna uma string com todas as mensagens geradas, separadas por quebras de linha 
 
+https://github.com/ianpimenta10/Meus-Projetos-Csharp/blob/main/Calculadora%20Simples
+
 ## Projeto 2
 - Web Api
 
