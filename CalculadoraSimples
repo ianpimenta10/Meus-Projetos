@@ -48,3 +48,5 @@ class Program
             Console.WriteLine($"Resultado: {resultado}");
     }
 }
+
+touch README.md
